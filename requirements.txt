@@ -1,0 +1,9 @@
+
+# requirements.txt
+streamlit
+pdfplumber
+transformers
+pandas
+mysql-connector-python
+pdfplumber
+openpyxl
